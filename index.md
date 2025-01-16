@@ -2,42 +2,56 @@
 
 layout: col-sidebar
 title: OWASP Leiria
-tags: example-tag
+tags: leiria-home
 region: Europe
 country: Portugal
 meetup-group:
 
 ---
 
-<div style='color:red;'>
+![](/assets/images/owasp_leiria_image.jpg)
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Welcome to OWASP Leiria!
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+The **Open Worldwide Application Security Project (OWASP)** is a global, non-profit initiative committed to improving the security of software. As part of this mission, the OWASP Leiria Chapter serves as a local hub for security enthusiasts, developers, and professionals to collaborate, learn, and contribute to making software and infrastructure more secure.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+## What is OWASP?
+OWASP provides free and open resources, including:
+- Educational Content: Like the OWASP Top 10, a trusted guide to the most critical web application security risks.
+- Open Source Tools: Such as OWASP ZAP, a powerful tool for finding vulnerabilities in web applications.
+- Global Community: OWASP connects local chapters worldwide to foster learning and sharing.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+## Our Vision for OWASP Leiria
+Our chapter is dedicated to creating a vibrant and inclusive community in Leiria. Together, we aim to:
+- Spread awareness about secure coding practices and application security.
+- Facilitate workshops, hands-on sessions, and knowledge-sharing events.
+- Empower participants to use OWASP tools and contribute to global projects.
+- Foster collaboration among professionals, students, and enthusiasts interested in application security.
 
-<li>region: This is the region you are in according to our data</li>
+## Who Can Join OWASP Leiria?
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-</div>
-
-## Welcome
-Include some information here about your chapter
+So, whether you’re a seasoned professional, a student exploring cybersecurity, or simply curious about secure software development, OWASP Leiria welcomes everyone!
 
 ## Participation
+
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+## How to Get Involved
+Attend our events, meetups, and workshops in Leiria.
+Stay connected through our social media channels for updates.
+
+
+Share your knowledge or learn from others in a collaborative environment.
+Let’s work together to make software security a priority in Leiria and beyond!
+
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+
+We are currently working to bring you our first event on Feb, 6th. Stay tuned!
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
