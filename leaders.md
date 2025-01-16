@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Teresa Pereira](mailto:teresa.pereira@owasp.org)
+* [Eduardo Piza](mailto:eduardo.piza@owasp.org)
+* [Luis Serra](mailto:luis.serra@owasp.org)
