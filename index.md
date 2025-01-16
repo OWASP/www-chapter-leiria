@@ -13,45 +13,35 @@ meetup-group:
 
 ## Welcome to OWASP Leiria!
 
-The **Open Worldwide Application Security Project (OWASP)** is a global, non-profit initiative committed to improving the security of software. As part of this mission, the OWASP Leiria Chapter serves as a local hub for security enthusiasts, developers, and professionals to collaborate, learn, and contribute to making software and infrastructure more secure.
+The objective of this chapter is to promote application security in Leiria, through the engagement of the local community, meetings and events organization, and project participation
 
-## What is OWASP?
-OWASP provides free and open resources, including:
-- Educational Content: Like the OWASP Top 10, a trusted guide to the most critical web application security risks.
-- Open Source Tools: Such as OWASP ZAP, a powerful tool for finding vulnerabilities in web applications.
-- Global Community: OWASP connects local chapters worldwide to foster learning and sharing.
+[Join us](https://owasp.org/membership)!
 
-## Our Vision for OWASP Leiria
-Our chapter is dedicated to creating a vibrant and inclusive community in Leiria. Together, we aim to:
-- Spread awareness about secure coding practices and application security.
-- Facilitate workshops, hands-on sessions, and knowledge-sharing events.
-- Empower participants to use OWASP tools and contribute to global projects.
-- Foster collaboration among professionals, students, and enthusiasts interested in application security.
+## Follow us and stay up to date
 
-## Who Can Join OWASP Leiria?
+Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events:
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-So, whether you’re a seasoned professional, a student exploring cybersecurity, or simply curious about secure software development, OWASP Leiria welcomes everyone!
 
 ## Participation
 
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### Call for Talks
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Are you interested in speaking at our meetups? 
+Beginner or advanced, attack or defense, technical or not, submit your talk.
 
-## How to Get Involved
-Attend our events, meetups, and workshops in Leiria.
-Stay connected through our social media channels for updates.
+### Sponsorship
+
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+
+Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 
-Share your knowledge or learn from others in a collaborative environment.
-Let’s work together to make software security a priority in Leiria and beyond!
-
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 
 We are currently working to bring you our first event on Feb, 6th. Stay tuned!
+
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
