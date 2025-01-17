@@ -19,7 +19,7 @@ The objective of this chapter is to promote application security in Leiria, thro
 
 ## Follow us and stay up to date
 
-Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events:
+Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events.
 
 
 ## Participation
