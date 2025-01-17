@@ -13,7 +13,7 @@ meetup-group:
 
 ## Welcome to OWASP Leiria!
 
-The objective of this chapter is to promote application security in Leiria, through the engagement of the local community, meetings and events organization, and project participation
+The objective of this chapter is to promote application security in Leiria, through the engagement of the local community, meetings and events organization, and project participation.
 
 [Join us](https://owasp.org/membership)!
 
