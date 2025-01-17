@@ -42,7 +42,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 We are currently working to bring you our first event on Feb, 6th. Stay tuned!
 
----------------------
 {% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
