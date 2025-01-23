@@ -40,7 +40,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 
-We are currently working to bring you our first event on Feb, 6th. Stay tuned!
+### #0 - The Castle: Feb 6th, 2025 @ synvert xgeeks
+
+**Talk:**
+Do Not Live in the Shadows (APIs) by Teresa Pereira  (Cyber Threat Hunter @ Siemens Energy & OWASP Leiria Co-Organizer)
+
+**Asbtract:** Abstract: This talk explores the concept of Shadow APIs, starting with a clear definition and their origins, and examines the multifaceted risks they introduce to software development. Through real-world examples, we will highlight the potential consequences of ignoring these “hidden doors” and discuss strategies for their identification, management, and mitigation. By the end of this session, you will gain actionable insights and strategies to reduce the risks posed by Shadow APIs and build more resilient, secure, and compliant systems.
+
+Check all info [here](https://www.meetup.com/leiria-tech-talks/events/305771833/?eventOrigin=group_upcoming_events).
 
 {% include chapter_events.html group=page.meetup-group %}
 
