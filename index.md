@@ -45,7 +45,7 @@ Our next meetup is set to be an exciting evening filled with technology insights
 
 Join us on **April 10th, 2025, from 18:00 to 22:00 at Auditório FNAC, LeiriaShopping**, for an opportunity to connect, share knowledge, and engage with like-minded professionals. 🚀
 
-RSVP now: https://www.meetup.com/owasp-leiria-chapter/events/306935853/
+**RSVP now:** https://www.meetup.com/owasp-leiria-chapter/events/306935853/
 
 {% include chapter_events.html group=page.meetup-group %}
 
