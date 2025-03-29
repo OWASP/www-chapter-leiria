@@ -24,7 +24,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 **OWASP Leiria Meetup #2 - "Leiria Pine Forest"**
 
-Our next meetup is set to be an exciting evening filled with technology insights, networking, and inspiring discussions! **OWASP Leiria**, in **collaboration** with **Leiria Tech Talks, OutSystems, StartUp Leiria, and the **Ministry of Testing Leiria**, is bringing the tech community together once again for an enlightening event. 
+Our next meetup is set to be an exciting evening filled with technology insights, networking, and inspiring discussions! **OWASP Leiria**, in **collaboration** with **Leiria Tech Talks, OutSystems, StartUp Leiria, and the Ministry of Testing Leiria**, is bringing the tech community together once again for an enlightening event. 
 
 **Talk:** HTML Smuggling to EDR Bypass by Milton Araújo (Security Researcher @ Secure Tecnologia)
 **Abstract:** Delve into how cybercriminals utilize HTML Smuggling to circumvent traditional security measures like Antivirus (AV) and Endpoint Detection and Response (EDR) solutions. This session will explore the nuances of this stealthy attack method, showcasing how malicious payloads can be discreetly delivered to target devices via browsers while evading standard security protocols.
