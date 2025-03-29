@@ -39,6 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+**OWASP Leiria Meetup #2 - "Leiria Pine Forest"**
 
 Our next meetup is set to be an exciting evening filled with technology insights, networking, and inspiring discussions! **OWASP Leiria**, in **collaboration** with **Leiria Tech Talks, OutSystems, StartUp Leiria, **and the **Ministry of Testing Leiria**, is bringing the tech community together once again for an enlightening event. 
 
