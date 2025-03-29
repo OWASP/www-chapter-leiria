@@ -21,6 +21,14 @@ The objective of this chapter is to promote application security in Leiria, thro
 
 Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events.
 
+## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+**OWASP Leiria Meetup #2 - "Leiria Pine Forest"**
+
+Our next meetup is set to be an exciting evening filled with technology insights, networking, and inspiring discussions! **OWASP Leiria**, in **collaboration** with **Leiria Tech Talks, OutSystems, StartUp Leiria, **and the **Ministry of Testing Leiria**, is bringing the tech community together once again for an enlightening event. 
+
+Join us on **April 10th, 2025, from 18:00 to 22:00 at Auditório FNAC, LeiriaShopping**, for an opportunity to connect, share knowledge, and engage with like-minded professionals. 🚀
+
+**RSVP now:** (https://www.meetup.com/owasp-leiria-chapter/events/306935853/)
 
 ## Participation
 
@@ -36,16 +44,6 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-
-## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
-**OWASP Leiria Meetup #2 - "Leiria Pine Forest"**
-
-Our next meetup is set to be an exciting evening filled with technology insights, networking, and inspiring discussions! **OWASP Leiria**, in **collaboration** with **Leiria Tech Talks, OutSystems, StartUp Leiria, **and the **Ministry of Testing Leiria**, is bringing the tech community together once again for an enlightening event. 
-
-Join us on **April 10th, 2025, from 18:00 to 22:00 at Auditório FNAC, LeiriaShopping**, for an opportunity to connect, share knowledge, and engage with like-minded professionals. 🚀
-
-**RSVP now:** https://www.meetup.com/owasp-leiria-chapter/events/306935853/
 
 {% include chapter_events.html group=page.meetup-group %}
 
