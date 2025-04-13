@@ -29,7 +29,7 @@ We are working on it! Stay tuned.
 ### Call for Talks
 
 Are you interested in speaking at our meetups? 
-Beginner or advanced, attack or defense, technical or not, submit your talk [here](https://docs.google.com/forms/d/e/1FAIpQLScBl0UEiqqUdU04ZjpBex1pd7pzgvQzz1jYrW6tfwt6SYCvXA/viewform?usp=dialog)).
+Beginner or advanced, attack or defense, technical or not, submit your talk [here](https://docs.google.com/forms/d/e/1FAIpQLScBl0UEiqqUdU04ZjpBex1pd7pzgvQzz1jYrW6tfwt6SYCvXA/viewform?usp=dialog).
 
 ### Sponsorship
 
