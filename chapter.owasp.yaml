@@ -1,0 +1,24 @@
+leaders:
+  - name: Teresa Pereira
+    email: teresa.pereira@owasp.org
+    github: starmtp
+  - name: Luis Serra
+    email: luis.serra@owasp.org
+    github: serrovsky
+location:
+  country: Portugal
+  country_code: PT
+  region: Leiria District
+  city: Leiria
+  latitude: 39.7437902
+  longitude: -8.8071119
+name: OWASP Leiria
+repositories:
+  - name: www-chapter-leiria
+    url: https://github.com/OWASP/www-chapter-leiria
+    description: OWASP Foundation web repository
+tags:
+  - leiria-home
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-leiria
