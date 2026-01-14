@@ -22,7 +22,7 @@ The objective of this chapter is to promote application security in Leiria, thro
 Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events.
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
-We are working on it! Stay tuned.
+Our next meetup will be held on February 26th, 2026!
 
 ## Participation
 
