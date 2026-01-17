@@ -50,8 +50,14 @@ Whether you're a developer or part of a DevSecOps team, you'll leave with action
 **Abstract:** Not every team has a security budget. Not every project has a dedicated AppSec engineer. But every product exposed to the internet needs some level of security to survive.
 This talk explores what I call “The AppSec Poverty Line” also known as ‘Minimal Viable Security” — the minimum viable set of practices, tools, and cultural shifts that under-resourced dev teams can adopt to meaningfully improve application security. Whether you're a startup with no security hires, an independent dev, or part of a team that doesn’t have a security budget, this talk will help you prioritize what actually matters.
 We’ll cover practical approaches to getting from zero to secure-ish, with a focus on:
+
 • Training developers to write more secure code, and spot unsafe code
+
 • Cultivating a security-positive culture
+
 • Leveraging open-source tools that punch above their weight
+
 • Knowing when “good enough” really is enough — and when it’s not
+
+
 Attendees will leave with a roadmap for building real-world security into their product lifecycle — without breaking the bank or burning out the team. Because even if you’re below the AppSec poverty line, you don’t have to be defenseless.
