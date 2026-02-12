@@ -24,7 +24,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 **OWASP Leiria Meetup #5 - "Our Lady of the Incarnation"**
 
-📅 **Date: February 26, 2026 | 18h30-20h**
+📅 **Date: February 26, 2026 | 18h30-20h GMT**
 
 📍 **Location: Startup Leiria Mercado** (Av. Cidade Maringá nº55, 1º Piso 2400-137 Leiria)
 
