@@ -61,3 +61,14 @@ We’ll cover practical approaches to getting from zero to secure-ish, with a fo
 
 
 Attendees will leave with a roadmap for building real-world security into their product lifecycle — without breaking the bank or burning out the team. Because even if you’re below the AppSec poverty line, you don’t have to be defenseless.
+
+## Fifth Event
+**#5 - Our Lady of the Incarnation**: February 26, 2026, Startup Leiria Mercado
+
+**Talk 1:** From Perimeter to Cloud: Zero Trust as a Strategy for the Future by Matias Correia (Senior Cybersecurity Consultant @ EY)
+
+**Abstract:** The shift to cloud‑first architectures, hybrid work, and distributed applications has dissolved the traditional security perimeter. Users, devices, and data now operate everywhere, creating an environment where legacy, network‑centric security models can no longer keep pace with modern threats or business demands. This is where SASE (Secure Access Service Edge) emerges as a transformative architecture. This session explores how SASE converges networking and security — SD‑WAN, CASB, SWG, ZTNA and more — into a unified, cloud‑native platform that simplifies operations, reduces complexity, and enhances visibility. We will examine how this convergence creates the ideal foundation for implementing a true Zero Trust strategy, where every access request is continuously validated, every identity is verified, and every session is protected regardless of location. Attendees will gain a practical and business‑aligned understanding of how adopting SASE accelerates Zero Trust maturity, strengthens security posture, and prepares organizations for a future where agility, resilience, and secure connectivity are essential.
+
+**Talk 2:** Hunting Zero-days on WordPress plugins and making profit by Miguel Santareno (Cyber Threat Intelligence Manager @ PwC Portugal)
+
+**Abstract:** This presentation will demonstrate the process of detecting vulnerabilities in WordPress plugins, from initial vulnerability detection to capitalization, including target enumeration and vulnerability reporting through bug bounty platforms. It will also demonstrate the process of assigning a CVE to the vulnerability and its disclosure, as well as the fix and changelog provided by the manufacturer.
