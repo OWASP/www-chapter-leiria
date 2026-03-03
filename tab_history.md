@@ -63,7 +63,7 @@ We’ll cover practical approaches to getting from zero to secure-ish, with a fo
 Attendees will leave with a roadmap for building real-world security into their product lifecycle — without breaking the bank or burning out the team. Because even if you’re below the AppSec poverty line, you don’t have to be defenseless.
 
 ## Fifth Event
-**#5 - Our Lady of the Incarnation**: February 26, 2026, Startup Leiria Mercado
+**#5 - Our Lady of the Incarnation**: February 26, 2026 @ Startup Leiria Mercado
 
 **Talk 1:** From Perimeter to Cloud: Zero Trust as a Strategy for the Future by Matias Correia (Senior Cybersecurity Consultant @ EY)
 
